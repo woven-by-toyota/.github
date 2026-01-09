@@ -1,3 +1,8 @@
+<!--
+  SPDX-License-Identifier: Apache-2.0
+  Copyright 2026, Toyota Motor Corporation
+-->
+
 # Woven by Toyota - `.github` Repository
 
 Welcome to the `.github` repository for Woven by Toyota's public GitHub organization. This repository serves a special purpose within our organization, primarily managing organization-wide settings, templates, and community health files that help in maintaining a standardized approach to our projects.
